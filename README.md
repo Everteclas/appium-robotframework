@@ -11,7 +11,7 @@ Projeto appium com Robot Framework
 * [Appium Inspector](https://github.com/appium/appium-inspector/releases)
 * [Robot Framework](https://robotframework.org/)
 
-### Variáveis de Ambiente [link](https://www.youtube.com/watch?v=ZsOq4xoTid0)
+### Variáveis de Ambiente [Link do Vídeo](https://www.youtube.com/watch?v=ZsOq4xoTid0)
 
 ## Appium
 
@@ -36,3 +36,7 @@ appium-doctor --android
 * Acesse a pasta do projeto;
 * Instale o Robot e a Lib do Appium conforme descrito na [doc](https://robotframework.org/);
 * Execute o comando: ```robot -d ./logs tests'```;
+
+Feito por Everton Ferrer [Acesse meu Linkedin](https://www.linkedin.com/in/everton-ferrer-55903199/)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayaraquino//)](https://www.linkedin.com/in/everton-ferrer-55903199/)
