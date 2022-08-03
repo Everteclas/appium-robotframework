@@ -10,3 +10,29 @@ Projeto appium com Robot Framework
 * [Appium](http://appium.io/downloads.html)
 * [Appium Inspector](https://github.com/appium/appium-inspector/releases)
 * [Robot Framework](https://robotframework.org/)
+
+### Variáveis de Ambiente [link](https://www.youtube.com/watch?v=ZsOq4xoTid0)
+
+## Appium
+
+* Com o Node.js instalado, execute:
+
+| Se estiver no Windows, execute no Prompt como Administrador
+
+```bash
+npm install -g appium
+npm install -g appium-doctor
+```
+
+Em seguida, execute:
+
+```bash
+appium-doctor --android
+```
+
+## Como Executar
+
+* Abra o Appium Desktop e clique em Start Server;
+* Acesse a pasta do projeto;
+* Instale o Robot e a Lib do Appium conforme descrito na [doc](https://robotframework.org/);
+* Execute o comando: ```bash robot -d ./logs tests' ```;
