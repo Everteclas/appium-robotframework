@@ -9,9 +9,19 @@ Projeto appium com Robot Framework
 * [Android Studio](https://developer.android.com/studio/index.html?hl=pt-br)
 * [Appium](http://appium.io/downloads.html)
 * [Appium Inspector](https://github.com/appium/appium-inspector/releases)
+* [Visual Studio](https://code.visualstudio.com/)
 * [Robot Framework](https://robotframework.org/)
 
 ### Variáveis de Ambiente [Link do Vídeo](https://www.youtube.com/watch?v=ZsOq4xoTid0)
+
+## Visual Studio
+
+Baixar as seguinter extensões:
+
+```bash
+* Robot Framework Language Server
+* Python
+```
 
 ## Appium
 
